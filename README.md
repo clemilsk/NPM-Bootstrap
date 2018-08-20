@@ -22,7 +22,7 @@
   "name": "NPM-bootstrap",<br>
   "version": "1.0.0",<br>
   "description": "NPM-bootstrap@1.0.0",<br>
-  "main": "index.js",<br>
+  "main": "main.js",<br>
   "dependencies": {<br>
     "bootstrap": "^4.1.3",<br>
     "jquery": "^3.3.1",<br>
